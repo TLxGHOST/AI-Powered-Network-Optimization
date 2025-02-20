@@ -38,7 +38,7 @@ This project aims to optimize telecom networks (e.g., DISH 5G) using AI to predi
 ### Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/AI-Network-Optimization.git
+   git clone https://github.com/TLxGHOST/AI-Network-Optimization.git
    cd AI-Network-Optimization
 ---
 ###  Acknowledgments
