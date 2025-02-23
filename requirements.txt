@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+scikit-learn
+tensorflow
+stable-baselines3
+pandas
+numpy
