@@ -25,4 +25,5 @@ python -m unittest discover -s tests -p "test_*.py"
 
 
 ## AUTHORS
-- [Tejanshu Bhandari](https://github.com/TLxGHOST/AI-Powered-Network-Optimization)
+- [Tejanshu Bhandari](https://github.com/TLxGHOST)
+- [Prashant Raj](https://github.com/prashantraj1X1)
