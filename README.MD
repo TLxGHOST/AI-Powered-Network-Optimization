@@ -22,3 +22,7 @@ curl -X POST "http://127.0.0.1:8000/predict" -H "Content-Type: application/json"
 python -m unittest discover -s tests -p "test_*.py"
 
 ```
+
+
+## AUTHORS
+- [Tejanshu Bhandari](https://github.com/TLxGHOST/AI-Powered-Network-Optimization)
