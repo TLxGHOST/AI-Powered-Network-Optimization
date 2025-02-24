@@ -27,3 +27,4 @@ python -m unittest discover -s tests -p "test_*.py"
 ## AUTHORS
 - [Tejanshu Bhandari](https://github.com/TLxGHOST)
 - [Prashant Raj](https://github.com/prashantraj1X1)
+- [Gaurav Kumar](https://github.com/Gaurav-kr7103)
