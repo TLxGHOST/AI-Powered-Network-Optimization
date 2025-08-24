@@ -31,3 +31,4 @@ python -m unittest discover -s tests -p "test_*.py"
 - [Harsh Ray](https://github.com/HarshRay04)
 - [Harshit Raj](https://github.com/Haarshit19)
 - [Maanveer Singh](https://github.com/Maanveer23)
+- [Purushottam Kumar](https://github.com/purushottam840)
